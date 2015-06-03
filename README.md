@@ -1,4 +1,5 @@
 # A simple template for workflow with Glup, Git, Sass, Compass, Browserify, Susy and Breakpoint
+![A simple template for workflow with Glup, Git, Sass, Compass, Browserify, Susy and Breakpoint](img.jpg)
 
 This is my template for simple Glup workflow with Git, Sass, Compass, Browserify, Susy and Breakpoint. This template give you few thing. First, glup compile your Sass into css, then you can automatically minify your css and javascripts, then give you livereload of your web project in browser.
 Susy and Breakpoint give you simple and custom responsive framework.

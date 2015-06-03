@@ -1,13 +1,22 @@
 {
-  "name" : "Template",
-  "version" : "0.0.1",
+  "name": "Template",
+  "version": "0.0.9",
   "description": "A simple template for workflow with Glup, Git, Sass, Compass, Browserify ",
   "repository": {
-   "type": "git",
-   "url": "https://github.com/drejcreative/xxx"
+    "type": "git",
+    "url": "https://github.com/drejcreative/Template-for-workflow-with-Glup-Git-Sass-Compass-Browserify-Susy-and-Breakpoint.git"
   },
   "author": "Andrej Vajagic",
-  "dependencies" : {
-  
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-connect": "^2.2.0",
+    "gulp-if": "^1.2.5",
+    "gulp-minify-html": "^1.0.3",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.5",
+    "jquery": "^2.1.4"
   }
 }

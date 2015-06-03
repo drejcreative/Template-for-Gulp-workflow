@@ -1,10 +1,12 @@
 //style.scss
 @import "compass";
-@import "compass/css3";
 @import "compass/reset";
+@import "compass/css3";
+
 
 //External Libraries
 @import "susy";
+@import "breakpoint";
 
 //Core
 @import "variables";

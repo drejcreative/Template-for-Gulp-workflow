@@ -13,7 +13,7 @@ Make sure you have these installed
 3. [grunt](www.gruntjs.com).
 
 Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
-`git clone  https://github.com/drejcreative/Template-for-Grunt-workflow-with-Git-Sass-and-Compass.git`
+`git clone  https://github.com/drejcreative/Template-for-workflow-with-Glup-Git-Sass-Compass-Browserify-Susy-and-Breakpoint.git`
 
 CD to the folder with workflows
 Run > `npm-install` to install the project dependencies

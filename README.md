@@ -8,9 +8,9 @@ Susy and Breakpoint give you simple and custom responsive framework.
 
 Make sure you have these installed
 
-1. [Node.js](hwww.nodejs.org).
+1. [Node.js](www.nodejs.org).
 2. [git](www.git-scm.com).
-3. [grunt](www.gruntjs.com).
+3. [gulp](www.gulpjs.com).
 
 Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
 `git clone  https://github.com/drejcreative/Template-for-Gulp-workflow.git`

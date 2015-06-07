@@ -10,13 +10,15 @@ Make sure you have these installed
 
 1. [Node.js](www.nodejs.org).
 2. [git](www.git-scm.com).
-3. [gulp](www.gulpjs.com).
+3. [Ruby for windows -- mac user allready have it](www.rubyinstaller.org).
 
 Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
 `git clone  https://github.com/drejcreative/Template-for-Gulp-workflow.git`
 
 CD to the folder with workflows
 Run > `npm install` to install the project dependencies
+
+Then instal susy and breakpoint > `gem install susy`and `gem install breakpoint` 
 
 Install gulp.js via the Mac terminal or Gitbash on a PC > `npm install -g gulp`
 
